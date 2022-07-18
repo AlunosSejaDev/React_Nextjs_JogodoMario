@@ -1,7 +1,7 @@
 function Title () {
   return (
     <h1>
-      Meu título
+      Meu título2
     </h1>
   )
 }
